@@ -1,2 +1,2 @@
 # protanki-utils
-Scripts for the [protanki-server]([https://www.google.com](https://github.com/Assasans/protanki-server) "protanki-server")
+Scripts made with some use cases for [protanki-server]([https://pages.github.com/](https://github.com/Assasans/protanki-server))
